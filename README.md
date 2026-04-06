@@ -1,4 +1,5 @@
 # R_Programming_Portfolio
+![Banner](banner.png)
 
 Name: Nidhi Joshi
 Course: BSc Data Science  
@@ -19,3 +20,5 @@ This repository demonstrates practical implementation of R concepts for data ana
 
 ## Number of Programs
 Total Programs: 35
+![R Programming Portfolio]
+(<img width="1536" heigh
