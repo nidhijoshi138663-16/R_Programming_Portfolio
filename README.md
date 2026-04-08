@@ -3,7 +3,9 @@
 ![Last Commit](https://img.shields.io/github/last-commit/nidhijoshi138663-16/R_Programming_Portfolio)
 ![Language](https://img.shields.io/github/languages/top/nidhijoshi138663-16/R_Programming_Portfolio)
 ![Repo Stars](https://img.shields.io/github/stars/nidhijoshi138663-16/R_Programming_Portfolio)
+[![View Repository](https://img.shields.io/badge/View-Repository-black?style=for-the-badge&logo=github)](https://github.com/nidhijoshi138663-16/R_Programming_Portfolio)
 
+[![R Programming](https://img.shields.io/badge/Made%20with-R-blue?style=for-the-badge&logo=r)](https://www.r-project.org/)
 
 Name: Nidhi Joshi
 Course: BSc Data Science  
