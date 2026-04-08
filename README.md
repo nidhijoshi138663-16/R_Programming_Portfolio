@@ -1,4 +1,8 @@
 # R_Programming_Portfolio
+![Repo Size](https://img.shields.io/github/repo-size/nidhijoshi138663-16/R_Programming_Portfolio)
+![Last Commit](https://img.shields.io/github/last-commit/nidhijoshi138663-16/R_Programming_Portfolio)
+![Language](https://img.shields.io/github/languages/top/nidhijoshi138663-16/R_Programming_Portfolio)
+![Repo Stars](https://img.shields.io/github/stars/nidhijoshi138663-16/R_Programming_Portfolio)
 ![Banner](banner.png)
 
 Name: Nidhi Joshi
